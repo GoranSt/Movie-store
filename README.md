@@ -25,3 +25,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+### Movie-store - technology used
+
+Back-end: PHP Laravel Framework (MVC)
+Front-end: Bootstrap and AngularJS
+
+The project also includes linked open data using SPARQL endpoint http://www.linkedmdb.org/ and web service OMDb API http://www.omdbapi.com/ for getting JSON data for awards and description for each movie.
+
+
